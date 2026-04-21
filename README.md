@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+’m an SYBSc IT student with a strong passion for technology, design, and problem-solving. As a developer and designer, I enjoy creating digital solutions that are not only functional but also visually appealing and user-focused.<br><br>My journey in tech revolves around building a solid foundation in programming and continuously exploring new tools and technologies. I actively work with languages like C, C++, Java, and Python, while also developing interactive web applications using HTML, CSS, JavaScript, and jQuery.<br><br>Alongside development, I have a keen interest in database systems, working with SQL and PL/SQL to efficiently manage and organize data. I believe in writing clean, maintainable code and designing interfaces that provide a smooth user experience.<br><br>🚀 Current Interests<br>⚡ Full Stack Web Development<br>🧠 Data Structures & Logical Thinking<br>🗄️ Database Design & Management<br>🎨 UI/UX & Creative Design<br>🎯 Career Vision<br>💻 Build scalable and real-world applications<br>🌍 Contribute to open-source projects<br>📈 Continuously upgrade technical and creative skills<br>🚀 Grow into a professional full-stack developer<br>⚙️ Skills Snapshot<br>👨‍💻 Programming: C, C++, Java, Python<br>🌐 Web: HTML, CSS, JavaScript, jQuery<br>🗃️ Database: SQL, PL/SQL<br>🎨 Design: Web Design & UI Concepts<br>✨ Mindset<br><br>I’m always eager to learn, experiment, and improve. I enjoy taking on challenges that push me to think differently and grow as a developer. For me, every project is an opportunity to learn something new and build something meaningful.
 
-<!--
-**SANIA682/SANIA682** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanzi.pvt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sshaikh23464@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=SANIA682&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=SANIA682&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SANIA682&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=SANIA682&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
